@@ -1,0 +1,6 @@
+messages:
+  - role: system
+    content: your are helpful
+  - role: user
+    content: 'your are helpful assistent '
+model: openai/gpt-4o
